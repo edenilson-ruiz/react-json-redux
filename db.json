@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "name": "Adam Romero",
+      "address": "London",
+      "email": "adam@gmail.com",
+      "contact": "8367367",
+      "id": 1
+    },
+    {
+      "name": "Tommy Motola",
+      "address": "Japan",
+      "email": "tom@gmail.com",
+      "contact": "83786646476",
+      "id": 2
+    },
+    {
+      "name": "Edenilson Ruiz",
+      "email": "ruiz.edenilson@gmail.com",
+      "contact": "76031200",
+      "address": "Lourdes",
+      "id": 3
+    },
+    {
+      "name": "Mayra Guardado",
+      "email": "maylissy@gmail.com",
+      "contact": "79595999",
+      "address": "Lourdes",
+      "id": 4
+    },
+    {
+      "name": "Robinson Ruiz",
+      "email": "robinruiz@gmail.com",
+      "contact": "74501489",
+      "address": "Santa Tecla",
+      "id": 5
+    },
+    {
+      "name": "Marco Garcia",
+      "email": "marco.garcia@gmail.com",
+      "contact": "3884848",
+      "address": "Lourdes",
+      "id": 6
+    }
+  ]
+}
